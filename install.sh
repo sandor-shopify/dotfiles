@@ -1,1 +1,1 @@
-# echo "starting dotfile" > dotfile.log
+echo "starting dotfile" > dotfile.log
