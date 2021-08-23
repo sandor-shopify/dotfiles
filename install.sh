@@ -1,0 +1,1 @@
+echo "starting dotfile" > dotfile.log
