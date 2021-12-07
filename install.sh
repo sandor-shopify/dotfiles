@@ -1,3 +1,3 @@
 echo "-------- STARTING DOTFILE --------\n" > dotfile.log
-emkdir ~/Code
+mkdir ~/Code
 echo "\n-------- DONE DOTFILE --------" >> dotfile.log
